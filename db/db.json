@@ -1,15 +1,1 @@
-[
-  {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "title": "the the the ",
-    "text": "hihihihihihihi afafdadfdf"
-  },
-  {
-    "title": "new note #1",
-    "text": "hi today is going well.",
-    "id": "fdaaebf2-f2d8-4881-b4fb-9bb64b69d716"
-  }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"the the the ","text":"hihihihihihihi afafdadfdf"}]
